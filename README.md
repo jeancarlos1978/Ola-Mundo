@@ -1,5 +1,5 @@
 # Olà,Mundo!
-Primeiro repositório do curso de Git e Github
+Primeiro repo sitório do curso Git e GitHub
 
 Repositório criado durante uma aula ao vivo!
- 
+Essa linha eu adcionei diratamente no site! QUE IMPRESIONANTE!
